@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend and react native developer from Turkey</h3>
 
 
+
 - 🔭 I’m currently working on **React, React Native**
 
 - 📫 How to reach me **ozturkmikail22@gmail.com**
@@ -40,7 +41,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikailozturk&show_icons=true&locale=en&layout=compact" alt="mikailozturk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikailozturk&show_icons=true&locale=en" alt="mikailozturk" /></p>
 
 
 
