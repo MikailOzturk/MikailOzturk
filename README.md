@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mikail</h1>
 <h3 align="center">A passionate frontend and react native developer from Turkey</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikailozturk&label=Profile%20views&color=0e75b6&style=flat" alt="mikailozturk" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikailozturk" alt="mikailozturk" /></a> </p>
+
+- 🔭 I’m currently working on **React, React Native**
+
+- 📫 How to reach me **ozturkmikail22@gmail.com**
+
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
@@ -32,3 +40,10 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikailozturk&show_icons=true&locale=en&layout=compact" alt="mikailozturk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikailozturk&show_icons=true&locale=en" alt="mikailozturk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikailozturk&" alt="mikailozturk" /></p>
+
