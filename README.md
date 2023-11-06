@@ -3,6 +3,11 @@
 
 
 
+- 🔭 I’m currently working on **React, React Native**
+
+- 📫 How to reach me **ozturkmikail22@gmail.com**
+
+
 
 
 <h4 align="left">Languages and Tools:</h4>
@@ -36,11 +41,6 @@
     </a>
 </p>
 
-
-
-- 🔭 I’m currently working on **React, React Native**
-
-- 📫 How to reach me **ozturkmikail22@gmail.com**
 
 
 
