@@ -3,9 +3,6 @@
 
 
 
-- 🔭 I’m currently working on **React, React Native**
-
-- 📫 How to reach me **ozturkmikail22@gmail.com**
 
 
 <h4 align="left">Languages and Tools:</h4>
@@ -39,7 +36,11 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikailozturk&show_icons=true&locale=en&layout=compact" alt="mikailozturk" /></p>
+
+
+- 🔭 I’m currently working on **React, React Native**
+
+- 📫 How to reach me **ozturkmikail22@gmail.com**
 
 
 
