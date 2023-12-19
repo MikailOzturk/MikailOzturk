@@ -3,7 +3,7 @@
 
 
 
-<h4 align="center">- 🔭 I’m currently working on **React, React Native** </h4>
+<h4 align="center">- 🔭 I’m currently working on **React, React Native, Flutter** </h4>
 
 <h4 align="center">- 📫 How to reach me **ozturkmikail22@gmail.com** </h4>
 
